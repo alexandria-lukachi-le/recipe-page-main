@@ -69,6 +69,10 @@ ul {
     color:hsl(332, 51%, 32%);
 }
 
+ul li::marker {
+    color:hsl(332, 51%, 32%);
+}
+
 span {
     position: relative;
     left: 10px;
